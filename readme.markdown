@@ -23,7 +23,7 @@ Screenshots
 
 ##e-Porfolio editing
 
-![e-Portfolio editing](http://github.com/gaza3g/uirevamp/raw/master/12__.jpg)
+![e-Portfolio editing](http://github.com/gaza3g/uirevamp/raw/master/12_.jpg)
 
 ##Quiz view
 
@@ -35,7 +35,7 @@ Screenshots
 
 ##Wiki
 
-![Wiki](http://github.com/gaza3g/uirevamp/raw/master/9.jpg)
+![Wiki](http://github.com/gaza3g/uirevamp/raw/master/9.png)
 
 ##Tools page v2
 
